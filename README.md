@@ -12,6 +12,6 @@ This model predicts the general duration of a cancer related study based on the 
 7. Test our designated test data and yield the accuracy of the model
 
 ## Ways to improve
-Use a larger dataset: I only imported 10,000 cases, I can download and use the entire ClinicalTrials.gov data set
-Optimize the LSTM neural network
-Introduce more feautures besides just title and summary 
+* Use a larger dataset: I only imported 10,000 cases, I can download and use the entire ClinicalTrials.gov data set
+* Optimize the LSTM neural network
+* Introduce more feautures besides just title and summary 
